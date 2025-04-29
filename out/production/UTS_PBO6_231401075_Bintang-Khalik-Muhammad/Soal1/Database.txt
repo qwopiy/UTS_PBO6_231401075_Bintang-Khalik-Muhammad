@@ -1,0 +1,5 @@
+0 001 BintangKhalikMhd CEO 100000000
+1 002 AnakBuah1 intern 1000
+2 003 AnakBuah2 intern 1000
+9 010 Manager Manager 40000
+99 100 CoffeeMachine BuatKopi 1

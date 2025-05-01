@@ -9,6 +9,7 @@ public class Kendaraan {
         this.jenisKendaraan = jenisKendaraan;
     }
 
+    // Untuk menghitung biaya dengan nominal yang berbeda
     public double biayaParkir(int biaya, int jam) {
         if (jam > 5) {
             return biaya * jam * 0.9;
